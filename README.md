@@ -21,8 +21,15 @@ git clone https://github.com/calkanmert/teknik-servis-laravel-app.git
 ```bash
 cd teknik-servis-laravel-app
 ```
-.env dosyanızı oluşturup database bilgilerinizi yazın.
-
+```bash
+cp .env.example .env
+```
+```bash
+composer install
+```
+```bash
+php artisan key:generate
+```
 ```bash
 php artisan migrate --seed
 ```
