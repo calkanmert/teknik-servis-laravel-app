@@ -1,7 +1,3 @@
-![image info](https://i.hizliresim.com/t8ic2z1.jpg)
-
-![image info](https://i.hizliresim.com/rjqxnso.jpg)
-
 # Proje Hakkında
 
 PHP Laravel ve Mysql kullanarak geliştirdiğim teknik servis scripti.
@@ -36,3 +32,8 @@ php artisan migrate --seed
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Screenshots
+![image info](https://i.hizliresim.com/t8ic2z1.jpg)
+
+![image info](https://i.hizliresim.com/rjqxnso.jpg)
